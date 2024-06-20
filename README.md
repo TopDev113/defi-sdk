@@ -9,8 +9,6 @@
 
 **DeFi SDK** is an open-source system of smart contracts that allows you to execute trades with ERC20 tokens and track balances on different protocols.
 
-If you have any questions about DeFi SDK, feel free to reach out to us on our [Discord server](https://zerion.io/discord).
-
 ![](https://i.ibb.co/RC54SjL/defisdk.png)
 
 ## Features
@@ -38,21 +36,9 @@ If you have any questions about DeFi SDK, feel free to reach out to us on our [D
   * **marketplace fee** managed by the transaction creator
 * Relayed transactions requiring just an EIP712 signature of the user
 
-## How to Add Your Adapter
-
-> Read-only and interactive adapters are maintained in [`master`](https://github.com/zeriontech/defi-sdk/tree/master) and [`interactive-updates`](https://github.com/zeriontech/defi-sdk/tree/interactive-updates) branches of **defi-sdk** repo respectively.
-
-The full instructions on how to add a custom adapters may be found in our [docs](docs/creating-your-adapters/index.md).
-
-If you have questions and/or want to add your adapter to Zerion reach out to us on our [Discord server](https://zerion.io/discord).
-
-## Addresses
-
-All the deployed contracts' addresses are available [here](docs/addresses.md).
 
 ## Security Vulnerabilities 🛡
 
-If you discover a security vulnerability within DeFi SDK, please send us an e-mail at inbox@zerion.io.
 All security vulnerabilities will be promptly addressed.
 
 The project uses [Slither](https://github.com/crytic/slither) for security analysis.
